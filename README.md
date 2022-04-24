@@ -1,6 +1,5 @@
 ### Olá, me chamo Jefferson Guirra 
 ##
-- 🔭 Estou em busca do primeiro emprego...
 - 🌱 Hoje estudo para me tornar um desenvolvedor front-end...
 
 <br>
