@@ -15,11 +15,12 @@
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  />
-[![Jefferson-Guirra](https://skills.thijs.gg/icons ?i=js,html,css,wasm )](https://skills.thijs.gg)
+
 
 </div>
 <hr>
  <div>
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
    <a href="https://www.instagram.com/jefferson.guirra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jefferson-guirra-29b391238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
