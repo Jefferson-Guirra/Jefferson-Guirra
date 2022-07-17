@@ -4,17 +4,15 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
+object jefferson {
  const name = "JEFFERSON GUIRRA DE FREITAS SILVA"
- val acknowledgements = "FRONT-END"
+ const acknowledgements = "FRONT-END"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
-
+ const primarySkillset = "AUTODIDATA,COMUNICAÇÃO,FOCO"
 }
 ```
 
-<div align="center"style="display:inline-block" >
+<div align="center"style="display:inline-block margin-top:30px" >
   <a href="https://github.com/Jefferson-Guirra">
   <img   width="385em" src="https://github-readme-stats.vercel.app/api?username=Jefferson-Guirra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img   width="380em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-Guirra&layout=compact&langs_count=7&theme=dark"/>
