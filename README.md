@@ -13,7 +13,8 @@
 <img  alignt="center" alt="Jeff-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img  alignt="center" alt="Jeff-Css" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img  alignt="center" altt=jeff-JS height="40" width"40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  />
 </div>
 <hr>
  <div>
