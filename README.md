@@ -14,7 +14,6 @@ object jefferson {
 ```
 <br>
 <br>
-<br>
 
 ## GitHub Estatísticas
 <div align="center"style="display:inline-block" >
@@ -25,12 +24,13 @@ object jefferson {
  
 <br>
 <br>
-<br>
  
 ## **Linguagens e Ferramentas:**  
 
 <p><img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,react,redux" /></p>
 </div>
+
+<br>
 
 #### Rede Sociais!
 
