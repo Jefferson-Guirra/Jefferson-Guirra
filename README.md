@@ -1,9 +1,9 @@
 ### Oie devs 👋
 Não é a linguagem de programação que define o programador, mas sim sua lógica.
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## Hello World ☕
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-### Me chamo Jefferson Guirra
+Me chamo Jefferson Guirra
 <br>
 <div align="center"style="display:inline-block" >
   <a href="https://github.com/Jefferson-Guirra">
