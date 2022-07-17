@@ -5,8 +5,8 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
 
 ```kotlin
 object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+ const name = "JEFFERSON GUIRRA DE FREITAS SILVA"
+ val acknowledgements = "FRONT-END"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
