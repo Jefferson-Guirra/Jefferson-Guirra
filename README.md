@@ -15,7 +15,7 @@
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  />
-<img src="https://skillicons.dev/icons?i=git,html,js,react,redux,bootstrap,css" />
+<p width:'40' height:40><img src="https://skillicons.dev/icons?i=git,html,js,react,redux,bootstrap,css" /><p>
 
 
 </div>
