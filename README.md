@@ -15,7 +15,8 @@
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  alignt="center" altt=jeff-JS height="40" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  />
-<img src="https://skills.thijs.gg/icons?i="css"/>
+[![Jefferson-Guirra](https://skills.thijs.gg/icons ?i=js,html,css,wasm )](https://skills.thijs.gg)
+
 </div>
 <hr>
  <div>
