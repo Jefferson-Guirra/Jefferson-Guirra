@@ -15,6 +15,8 @@ object jefferson {
 <br>
 <br>
 <br>
+
+## GitHub Estatísticas
 <div align="center"style="display:inline-block" >
   <a href="https://github.com/Jefferson-Guirra">
   <img   width="385em" src="https://github-readme-stats.vercel.app/api?username=Jefferson-Guirra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
