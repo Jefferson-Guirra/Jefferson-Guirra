@@ -6,7 +6,7 @@ Não é a linguagem de programação que define o programador, mas sim sua lógi
 ```kotlin
 object jefferson {
  const name = "JEFFERSON GUIRRA DE FREITAS SILVA"
- const age = 24
+ const age = 23
  const acknowledgements = "FRONT-END"
  
  
