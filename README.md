@@ -10,7 +10,7 @@
 </div>
   <br>
 <div>
-<p><img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,react,redux" /></p>
+<p  align="center"><img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,react,redux" /></p>
 
 
 </div>
