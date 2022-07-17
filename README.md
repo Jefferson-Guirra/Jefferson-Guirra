@@ -1,4 +1,3 @@
-Não é a linguagem de programação que define o programador, mas sim sua lógica.
 ## Hello World ☕
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -35,4 +34,7 @@ object jefferson {
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+🖥️ Não é a linguagem de programação que define o programador, mas sim sua lógica.
+
           
