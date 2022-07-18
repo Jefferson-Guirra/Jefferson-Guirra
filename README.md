@@ -4,11 +4,11 @@
 
 ```kotlin
 object jefferson {
- nome : "Jefferson Guirra de Freitas Silva"
- idade : 23
- área : "Front-End"
+ name : "Jefferson Guirra de Freitas Silva"
+ age : 23
+ acknowledgements : "Front-End"
  code : [Javascript, HTML, CSS]
- ferramentas : [React, Redux, Node, Git, Bootstrap],
+ tools : [React, Redux, Node, Git, Bootstrap],
  Skillset : [Autodidata,Comunicação,Foco]
 }
 ```
