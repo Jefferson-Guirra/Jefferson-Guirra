@@ -9,7 +9,7 @@ object jefferson {
  acknowledgements : "Front-End",
  code : [Javascript, HTML, CSS],
  tools : [React, Redux, Node, Git, Bootstrap],
- Skillset : [Autodidata,Comunicação,Foco],
+ Skillset : [Autodidata,Comunicacao,Foco],
 }
 ```
 <br>
