@@ -9,7 +9,7 @@ object jefferson {
  área : "Front-End"
  code : [Javascript, HTML, CSS]
  ferramentas : [React, Redux, Node, Git, Bootstrap],
- const Skillset : [Autodidata,Comunicação,Foco]
+ Skillset : [Autodidata,Comunicação,Foco]
 }
 ```
 <br>
