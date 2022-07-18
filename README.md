@@ -12,6 +12,7 @@ object jefferson {
  const primarySkillset = "AUTODIDATA,COMUNICAÇÃO,FOCO"
 }
 ```
+<br>
 
 ##  ⭐ GitHub Estatísticas
 
@@ -28,6 +29,8 @@ object jefferson {
  
 ## 🚀 **Linguagens e Ferramentas:**  
 
+<br>
+ 
 <p><img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,react,redux" /></p>
 </div>
 
