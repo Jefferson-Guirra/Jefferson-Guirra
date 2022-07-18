@@ -35,7 +35,6 @@ object jefferson {
 </div>
 
 <br>
-<br>
 
 #### Rede Sociais!
 
