@@ -17,7 +17,6 @@ object jefferson {
 
 ##  ⭐ GitHub Estatísticas
 
-<br>
 
 <div align="center"style="display:inline-block" >
   <a href="https://github.com/Jefferson-Guirra">
@@ -29,7 +28,6 @@ object jefferson {
  
 ## 🚀 **Linguagens e Ferramentas:**  
 
-<br>
  
 <p><img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,js,react,redux" /></p>
 </div>
