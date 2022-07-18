@@ -1,6 +1,6 @@
 ## Hello World ☕
 
-<img align='right' height="168" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+<img align='right' height="169" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
 ```kotlin
 object jefferson {
