@@ -2,15 +2,15 @@
 
 <img align='right' height="169" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
-```kotlin
+```javascript
 object jefferson {
  name : "Jefferson Guirra de Freitas Silva",
  age : 23,
  acknowledgements : "Front-End",
- code : [Javascript, HTML, CSS],
- tools : [React, Redux, Node, Git, Bootstrap],
- skillset : [Autodidata,Carisma,Foco,Disciplina],
- learnig : Nodejs
+ code : ["Javascript", "HTML", "CSS"],
+ tools : ["React", "Redux", "Node", "Git", "Bootstrap"],
+ skillset : ["Autodidata","Carisma","Foco","Disciplina"],
+ learnig : "Nodejs"
 }
 ```
 <br>
