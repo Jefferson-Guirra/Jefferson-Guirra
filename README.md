@@ -10,7 +10,7 @@ object jefferson {
  code : ["Javascript", "HTML", "CSS"],
  tools : ["React", "Redux", "Node", "Git", "Bootstrap"],
  skillset : ["Autodidata","Carisma","Foco","Disciplina"],
- learnig : "Nodejs"
+ learning : "Nodejs"
 }
 ```
 <br>
