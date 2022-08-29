@@ -21,8 +21,8 @@ object jefferson {
 <div align="center"style="display:inline-block" >
   <a href="https://github.com/Jefferson-Guirra">
   <img   width="380em" src="https://github-readme-stats.vercel.app/api?username=Jefferson-Guirra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson-Guirra)](https://github.com/anuraghazra/github-readme-stats)
   <img   width="380em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-Guirra&layout=compact&langs_count=7&theme=dark"/>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson-Guirra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  
 <br>
