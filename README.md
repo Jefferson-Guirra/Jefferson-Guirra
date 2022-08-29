@@ -22,6 +22,7 @@ object jefferson {
   <a href="https://github.com/Jefferson-Guirra">
    
   
+   <img class="img" src="https://github-readme-stats.vercel.app/api?username=Jefferson-Guirra&show_icons=true&theme=radical" />
    
   <img   width="380em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-Guirra&layout=compact&langs_count=7&theme=dark"/>
    
