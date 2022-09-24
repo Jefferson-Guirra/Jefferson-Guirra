@@ -9,8 +9,8 @@ object jefferson {
  acknowledgements : "Front-End",
  code : ["Javascript", "HTML", "CSS"],
  tools : ["React", "Redux", "TypeScript", "Git", "Bootstrap"],
- skillset : ["Autodidata","Carisma","Foco","Disciplina"],
- learning : "Nodejs"
+ skillset : ["Carisma","Foco","Disciplina"],
+ learning : "React Native"
 }
 ```
 <br>
