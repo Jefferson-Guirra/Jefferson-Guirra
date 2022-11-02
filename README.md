@@ -8,7 +8,10 @@ object jefferson {
  age : 23,
  acknowledgements : "Front-End",
  code : ["Javascript", "HTML", "CSS"],
- tools : ["React","React Native", "Redux", "TypeScript", "Git", "Bootstrap","Styled-components","Jest"],
+ tools : [
+ "React","React Native", "Redux", "TypeScript",
+ "Git", "Bootstrap","Styled-components","Jest"
+ ],
  skillset : ["Carisma","Foco","Disciplina"],
  learning : "Nextjs"
 }
