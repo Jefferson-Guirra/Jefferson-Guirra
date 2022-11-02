@@ -8,9 +8,9 @@ object jefferson {
  age : 23,
  acknowledgements : "Front-End",
  code : ["Javascript", "HTML", "CSS"],
- tools : ["React", "Redux", "TypeScript", "Git", "Bootstrap"],
+ tools : ["React","React Native", "Redux", "TypeScript", "Git", "Bootstrap","Styled-components","Jest"],
  skillset : ["Carisma","Foco","Disciplina"],
- learning : "React Native"
+ learning : "Nextjs"
 }
 ```
 <br>
