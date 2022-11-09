@@ -9,7 +9,7 @@ object jefferson {
  acknowledgements : "Front-End",
  code : ["Javascript", "HTML", "CSS"],
  tools : [
- "React","React Native", "Redux", "TypeScript",
+ "React","React Native", "Nextjs", "Redux", "TypeScript",
  "Git", "Bootstrap","Styled-components","Jest"
  ],
  skillset : ["Carisma","Foco","Disciplina"],
