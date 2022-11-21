@@ -1,7 +1,7 @@
 ## ☕ Hello world
 
 
-<img align='right' height="240" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px" />
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
 object jefferson {
