@@ -27,7 +27,7 @@ object jefferson {
   
    <img class="img" width="380em" height="150em"  src="https://github-readme-stats.vercel.app/api?username=Jefferson-Guirra&show_icons=true&theme=dark" />
    
-  <img   width="380em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?text=Hello%World!?username=Jefferson-Guirra&layout=compact&langs_count=7&theme=dark"/>
+  <img   width="380em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-Guirra&layout=compact&langs_count=7&theme=dark"/>
   
 </div>
  
