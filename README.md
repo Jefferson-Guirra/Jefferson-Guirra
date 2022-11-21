@@ -60,6 +60,6 @@ object jefferson {
 ### Não é a linguagem de programação que define o programador, mas sim sua lógica.
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=4A1259&height=100&text=Hello%20World!&fontAlign=15&fontAlignY=20&fontSize=30&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4A1259&height=100&text=Hello%20World!&fontAlign=15&fontAlignY=0&fontSize=30&section=footer)
 
           
