@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A1259&height=100&section=header"/>
 
 <img align='right' height="169" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
@@ -51,7 +51,6 @@ object jefferson {
  
  <div align="center">
  
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Jefferson-Guirra&theme=gotham&hide_border=true&area=true)
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
