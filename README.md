@@ -1,7 +1,7 @@
 ## ☕ Hello world
 
 
-<img align='right' height="240" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=50% />
+<img align='right' height="250" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=50% />
 
 ```javascript
 object jefferson {
