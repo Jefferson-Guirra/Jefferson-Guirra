@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A1259&height=100&section=header&text=☕%20Hello%20World&fontSize=20&fontAlign=10&fontAlignY=20&fontColor=FFF"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A1259&height=100&section=header&text=☕%20Hello%20World&fontSize=15&fontAlign=10&fontAlignY=20&fontColor=FFF"/>
 
 <img align='right' height="169" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
