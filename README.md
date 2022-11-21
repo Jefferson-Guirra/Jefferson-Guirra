@@ -51,7 +51,7 @@ object jefferson {
  
  <div align="center">
  
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jefferson-Guirra10&theme=dracula)](https://github.com/Jefferson-Guirra/github-readme-activity-graph)
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=Jefferson-Guirra&theme=gotham&hide_border=true&area=true)
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
