@@ -14,7 +14,7 @@ object jefferson {
  "Git", "Bootstrap","Styled-components","Jest"
  ],
  skillset : ["Carisma","Foco","Disciplina"],
- learning : "Nextjs"
+ learning : ["Nodejs", "TDD", "Clean-architecture"]
 }
 ```
 <br>
