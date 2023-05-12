@@ -37,7 +37,7 @@ object jefferson {
 ## 🚀 **Linguagens e Ferramentas:**  
 
  
-<p><img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,next,redux,styledcomponents,bootstrap,jest,regex" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,next,redux,styledcomponents,bootstrap,node,jest,regex" /></p>
 
 </div>
 
