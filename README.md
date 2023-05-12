@@ -11,7 +11,8 @@ object jefferson {
  code : ["Javascript", "HTML", "CSS"],
  tools : [
  "React","React Native", "Nextjs", "Redux", "TypeScript",
- "Git", "Bootstrap","Styled-components","Jest", "firebase", "MongoDb", "Nodejs", "Express"
+ "Git", "Bootstrap","Styled-components","Jest", "firebase", 
+ "MongoDb", "Nodejs", "Express"
  ],
  skillset : ["Carisma","Foco","Disciplina"],
  learning : ["Nodejs", "TDD", "Clean-architecture"]
